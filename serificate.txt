@@ -1,0 +1,118 @@
+mexmonxona 14
+sub category
+foydalanuvchi1
+mexmonxona1
+room_bron1
+stoll zakas1
+taksi zakas kilish1
+papuliarni mesto1
+brend1
+Avtoturargoh1
+Konferentsiya markazlari1
+SPA va salomatlik1
+Restoranlar1
+Turar joy1
+Do'kon va ijara1
+Qutqaruv va tibbiy xizmat1
+Bolalar klubi1
+Dam olish maskani1
+Texnik spetsifikatsiyalar
+Operator1
+Chang'i uchun maydon1
+etkazib berish1
+address1
+category_adress1
+venv ulash
+
+CRUD:17 = 17
+Mexmonxona1
+Room1
+Stol1
+Tarixiy_joylar1
+Konferentsiya_markazi1
+Shifoxona1
+Avtoturargoh1
+Turar_joy1
+Dokon1
+Restoranlar1
+Category_by_address1
+Changi_uchun_maydon1
+Address1
+Bolalar_clubi1
+Texnik_spetsifikatsiyalar1
+Dam_olish_maskani1
+Yetkazib_berish1
+Kutqaruv_tibiy_xizmat1
+Operator
+Ovqat_zakas
+
+ALL:16 = 16
+Mexmonxona1
+Room1
+Stol1
+Tarixiy_joylar1
+Konferentsiya_markazi1
+Shifoxona1
+Avtoturargoh1
+Turar_joy1
+Dokon1
+Restoranlar1
+Category_by_address1
+Changi_uchun_maydon1
+Address1
+Bolalar_clubi1
+Texnik_spetsifikatsiyalar1
+Dam_olish_maskani1
+Yetkazib_berish1
+Kutqaruv_tibiy_xizmat1
+Operator1
+Ovqat_zakas1
+
+ACCOUNT:6
+SING-IN
+SING-UP
+EDIT
+DELETE
+MY-PROFILE
+DELETE-USER
+
+Fields:
+1.mexmonxona_by_name1
+2.mexmonxona_by_room1
+3.room_by_name1
+4.stol_by_name1
+5.stol_by_xajmi1
+6.tarixiy_joylar_by_name1
+7.address_by_name1
+8.avtoturargox_by_name1
+9.avtoturargox_by_address1
+10.konfirentsiya_markazi_by_name1
+11.konfirentsiya_markazi_by_address1
+12.shifoxona_by_name1
+13.shifoxona_by_address1
+14.restoranlar_by_name1
+15.restoran_by_dascription1
+16.restoran_by_address1
+17.turar_joy_by_name1
+18.turar_joy_by_address1
+19.dokon_by_name1
+20.dokon_by_address1
+21.kutqaruv_tibiy_xizmat_by_name1
+22.bolalar_clubi_by_name1
+23.bolalar_clubi_by_address1
+24.address_by_name1
+25.Dam_olish_maskani_by_name1
+26.Dam_olish_maskani_address1
+27.Texnik_spetsifikatsiyalar_by_name1
+28.Texnik_spetsifikatsiyalar_by_address1
+29.Operator_by_name1
+30.Operator_by_user1
+31.Operator_by_address1
+32.changi_uchun_maydon_by_name1
+33.changi_uchun_maydon_by_address1
+34.yetkazib_berish_by_name1
+35.Yetkazib_berish_by_address1
+36.Yetkazib_berish_by_buyurtma_raqami1
+37.Category_by_address_by_name1
+38.Ovqat_zakas_by_name1
+39.git_by_name1
